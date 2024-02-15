@@ -1,0 +1,29 @@
+/******Tag selector****/
+
+body{background-color:#CDFADB;}
+
+h1{color: #0d275f;}
+
+h2{color: #66BFBF;}
+
+h3{color: cadetblue;}
+
+hr{border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 10px;
+   width: 6%;}
+
+img{background-color: red;
+}
+
+/******Class Selector******/
+.bacon{background-color:red;}
+.broccoli{background-color: #ffa500;}
+.ciculair{border-radius: 100%;}
+
+
+
+/*****ID Selectors*****/
+*#header{color: red;
+font-size: 500%;}
